@@ -1,3 +1,6 @@
+//Wilson Peña - 24760
+// Link del video de explicacion: https://youtu.be/UhZGuufBgEA
+
 // Definición abstracta Food
 abstract class Food(val name: String, val price: Double) {
     abstract fun cook(): String
